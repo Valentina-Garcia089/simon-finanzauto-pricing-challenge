@@ -2,6 +2,8 @@
 
 Solución integral en **Python** para el análisis de inventario de subastas, benchmarking de mercado, perfilación de compradores y estrategia de pricing dinámico.
 
+DASHBOARD: https://simon-finanzauto-pricing-challenge-3ubzyjtmk6jtdvxe3vwvmz.streamlit.app/
+
 ## Estructura del Repositorio
 
 - `data/raw/`: Dataset original de subastas (`inventario_subastas_.csv`).
